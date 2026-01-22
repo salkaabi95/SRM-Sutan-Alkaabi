@@ -14,11 +14,8 @@ This artefact demonstrates my participation in the collaborative discussion addr
 ![Unit 1 Discussion Screenshot](https://raw.githubusercontent.com/salkaabi95/SRM-Sutan-Alkaabi/main/images/unit1-discussion.png)
 
 
-**Wiki Contribution**  
-I contributed definitions and explanations of core SRM terminology (risk, threat, vulnerability) to the module wiki, supported by academic sources.
-
-*(Optional screenshot)*  
-![Unit 1 Wiki Contribution](images/unit1-wiki.png)
+**Peer Response 1:**  
+![Peer Response Screenshot](images/unit1-peer-response.png)  
 
 ---
 
