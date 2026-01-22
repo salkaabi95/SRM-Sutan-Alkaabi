@@ -1,21 +1,23 @@
-UNIT 9 – Business Continuity and Disaster Recovery
+UNIT 9 – Risk, Business Continuity and Disaster Recovery
 Unit Overview
 
-This unit examined BC and DR planning, focusing on RTO, RPO, and business impact analysis.
+This unit examined BC and DR planning, including RTO, RPO, and business impact analysis.
 
 Artefacts
 
 BC/DR concept summaries
 
-RTO/RPO table
+RTO/RPO comparison table
+
+Individual Contribution
+
+I contributed to seminar preparation and applied BC concepts to realistic organisational scenarios.
 
 Reflection
 
-This unit expanded my understanding of risk beyond cybersecurity to include operational resilience. I learned that continuity planning is essential for organisational survival, not merely compliance.
+This unit broadened my understanding of risk to include organisational resilience. I learned that continuity planning is essential for maintaining trust and availability, particularly for digital services.
 
 References
-
-Andrade, E. et al. (2017). DRaaS Availability Modelling.
 
 ISO (2019). ISO 22301 Business Continuity.
 https://www.iso.org/iso-22301-business-continuity.html
