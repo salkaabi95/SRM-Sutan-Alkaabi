@@ -1,23 +1,23 @@
-UNIT 8 – Implementing Quantitative Risk Models
+UNIT 9 – Risk, Business Continuity and Disaster Recovery
 Unit Overview
 
-This unit applied quantitative models to real-world problems, including social engineering threat analysis.
+This unit examined BC and DR planning, including RTO, RPO, and business impact analysis.
 
 Artefacts
 
-Attack tree and Markov model notes
+BC/DR concept summaries
 
-Seminar workshop answers
+RTO/RPO comparison table
 
 Individual Contribution
 
-I analysed how quantitative models support decision-making in security contexts.
+I contributed to seminar preparation and applied BC concepts to realistic organisational scenarios.
 
 Reflection
 
-Implementing models revealed the importance of aligning mathematical outputs with business impact. Quantitative risk models are most valuable when they support prioritisation and policy decisions rather than acting as purely academic exercises.
+This unit broadened my understanding of risk to include organisational resilience. I learned that continuity planning is essential for maintaining trust and availability, particularly for digital services.
 
 References
 
-Aijaz, M. and Nazir, M. (2024). Modelling Social Engineering Threats.
-https://link.springer.com
+ISO (2019). ISO 22301 Business Continuity.
+https://www.iso.org/iso-22301-business-continuity.html
