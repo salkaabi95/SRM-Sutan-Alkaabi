@@ -1,0 +1,20 @@
+UNIT 10 – Practical DR Implementations
+Unit Overview
+
+This unit explored practical DR designs, cloud solutions, and vendor lock-in risks.
+
+Artefacts
+
+DR architecture sketch
+
+Vendor lock-in analysis
+
+Reflection
+
+I learned that cloud-based DR solutions offer resilience but introduce dependency risks. Evaluating trade-offs between cost, availability, and control was critical in designing realistic DR strategies.
+
+References
+
+Kumar, A. (2024). Cloud Vendor Lock-In.
+
+Alhazmi, O. and Malaiya, Y. (2013). Cloud DR Evaluation.
