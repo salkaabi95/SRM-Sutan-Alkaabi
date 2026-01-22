@@ -1,19 +1,23 @@
 UNIT 8 – Implementing Quantitative Risk Models
 Unit Overview
 
-This unit applied quantitative techniques to real-world scenarios, including social engineering threat analysis.
+This unit applied quantitative models to real-world problems, including social engineering threat analysis.
 
 Artefacts
 
 Attack tree and Markov model notes
 
-Seminar responses
+Seminar workshop answers
+
+Individual Contribution
+
+I analysed how quantitative models support decision-making in security contexts.
 
 Reflection
 
-Implementing models highlighted the importance of validating assumptions and inputs. Quantitative outputs are only meaningful when grounded in realistic threat behaviour and empirical evidence.
+Implementing models revealed the importance of aligning mathematical outputs with business impact. Quantitative risk models are most valuable when they support prioritisation and policy decisions rather than acting as purely academic exercises.
 
 References
 
-Aijaz, M. and Nazir, M. (2024). Social Engineering Modelling.
+Aijaz, M. and Nazir, M. (2024). Modelling Social Engineering Threats.
 https://link.springer.com
