@@ -1,0 +1,21 @@
+UNIT 7 – Quantitative Risk Modelling Concepts
+Unit Overview
+
+This unit introduced quantitative risk modelling methods including Monte Carlo simulation, Bayesian analysis, and multi-criteria decision models.
+
+Artefacts
+
+Monte Carlo simulation screenshots
+
+CVSS critique post
+
+Reflection
+
+I learned that quantitative models provide stronger decision support than qualitative scoring when data is available. However, I also recognised the danger of false precision when assumptions are poorly defined.
+
+References
+
+Metropolis, N. (1987). Monte Carlo Method.
+
+Downey, A. (2022). Think Bayes 2.
+https://allendowney.github.io/ThinkBayes2
