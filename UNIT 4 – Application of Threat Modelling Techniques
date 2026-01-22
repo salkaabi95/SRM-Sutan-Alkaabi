@@ -1,7 +1,7 @@
 UNIT 4 – Application of Threat Modelling Techniques
 Unit Overview
 
-This unit focused on applying threat modelling using practical tools such as OWASP guidance and the MITRE ATT&CK framework.
+This unit applied threat modelling techniques using practical tools such as the OWASP Threat Modeling Cookbook and the MITRE ATT&CK framework.
 
 Artefacts
 
@@ -9,9 +9,15 @@ Threat model diagram
 
 Workshop activity responses
 
+MITRE ATT&CK mapping
+
+Individual Contribution
+
+I developed a threat model based on the workshop scenario and evaluated publicly available threat modelling tools.
+
 Reflection
 
-Applying threat models to realistic scenarios demonstrated the gap between theory and practice. Tools such as MITRE ATT&CK provided structured threat intelligence, but I also recognised their limitations when contextual business knowledge is missing. This reinforced the importance of human judgement alongside tooling.
+Applying threat modelling tools revealed their strengths and limitations. While frameworks like MITRE ATT&CK provide structured threat intelligence, they require contextual understanding to remain effective. This unit reinforced that tooling alone cannot replace analyst judgement, particularly in complex socio-technical systems.
 
 References
 
