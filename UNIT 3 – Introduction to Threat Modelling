@@ -1,0 +1,22 @@
+UNIT 3 – Introduction to Threat Modelling
+Unit Overview
+
+This unit introduced threat modelling concepts and techniques, including STRIDE, DREAD, attack trees, and hybrid frameworks such as PASTA.
+
+Artefacts
+
+STRIDE vs DREAD comparison table
+
+Threat vs vulnerability notes
+
+Reflection
+
+I learned that threat modelling provides a proactive way to identify security weaknesses before incidents occur. Comparing multiple models showed that no single framework is sufficient in all contexts, reinforcing the importance of selecting or combining techniques based on system complexity and risk tolerance.
+
+References
+
+Shostack, A. et al. (2020). Threat Modeling Manifesto.
+https://www.threatmodelingmanifesto.org
+
+Shevchenko, N. et al. (2018). Threat Modeling Methods. CMU SEI.
+https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=539397
