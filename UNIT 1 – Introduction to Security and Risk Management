@@ -1,28 +1,19 @@
-UNIT 1 – Introduction to Security and Risk Management
-Unit Overview
+## Unit 1 – Introduction to Security and Risk Management
 
-This unit introduced foundational definitions of security and risk management, including threats, vulnerabilities, and uncertainty. It established the basis for qualitative and quantitative risk assessment and introduced recognised risk management standards.
+### Unit Overview  
+Unit 1 introduces core definitions and concepts of security and risk management, including common definitions of risk, threats, and vulnerabilities. It explains how risk assessments are structured and why understanding risk terminology is essential before applying qualitative or quantitative methods. These foundational concepts lay the basis for later units.
 
-Artefacts
+### Artefacts
+- **Discussion post:** Screenshot or copied text responding to the forum prompt on risk definitions.
+- **Peer responses:** Screenshots or text showing engagement with academic sources.
+- **Wiki contribution:** Link or snippet where I defined key SRM terms.
 
-Initial discussion post on fairness and accountability risks
+### Individual Contribution
+I authored the initial discussion post on risk definitions and responded to at least two peers using references from ISO 31000 and academic sources. I also contributed to the Module Wiki by defining terminology relevant to Unit 1.
 
-Peer responses and summary post
+### Critical Reflection  
+Unit 1 helped me understand that risk is not just a chance of loss, but the *effect of uncertainty on objectives*, as defined in ISO 31000. This distinction between probability and impact made me appreciate the complexity of the risk management process and why consistent terminology is essential. Early engagement with peers through discussion reinforced that operationalising these definitions requires careful thought and shared understanding. This reflective start shaped my approach to risk modelling in later units.
 
-Wiki contribution defining key SRM terminology
-
-Individual Contribution
-
-I authored the initial discussion post and engaged critically with peer responses, integrating academic literature to support arguments around risk and accountability.
-
-Reflection
-
-This unit clarified that risk is not merely the likelihood of harm, but a combination of uncertainty, impact, and context. Understanding this distinction helped me appreciate why structured frameworks such as ISO 31000 are necessary to avoid subjective or inconsistent risk decisions. The introduction to qualitative and quantitative assessment approaches influenced my later methodology choices, particularly when assessing organisations with limited historical data. This unit established the conceptual foundation for all subsequent risk analysis tasks in the module.
-
-References
-
-Aven, T. and Thekdi, S. (2025). Risk Science. Routledge.
-https://www.routledge.com/Risk-Science/Aven-Thekdi/p/book/9781032398155
-
-NIST (2002). SP 800-30 Risk Management Guide.
-https://csrc.nist.gov/publications/detail/sp/800-30/archive/2002-07-01
+### References  
+- ISO 31000: Definitions and risk management overview. :contentReference[oaicite:8]{index=8}  
+- Security and Risk Management fundamentals — risk identification and assessment. :contentReference[oaicite:9]{index=9}
