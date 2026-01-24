@@ -1,5 +1,3 @@
-Security and Risk Management – e-Portfolio
-Module Name
 
 Security and Risk Management
 
