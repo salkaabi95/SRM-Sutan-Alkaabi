@@ -1,19 +1,30 @@
-## 📘 Security and Risk Management – E-Portfolio  
-**Student:** Sultan Alkaabi  
-
-### 📂 Navigation
-- [Home](README.md)
-- [Unit 1 – Introduction to Security & Risk Management](UNIT%201.md)
-- [Unit 2 – Users, Assessments & the Risk Management Process](UNIT%202.md)
-- [Unit 3 – Threat Modelling & Management](UNIT%203.md)
-- [Unit 4 – Applying Threat Modelling Techniques](UNIT%204.md)
-- [Unit 5 – Security & Risk Standards](UNIT%205.md)
-- [Unit 6 – Practical Implications of Standards](UNIT%206.md)
-- [Unit 7 – Quantitative Risk Modelling Concepts](UNIT%207.md)
-- [Unit 8 – Implementing Quantitative Risk Models](UNIT%208.md)
-- [Unit 9 – Business Continuity & Disaster Recovery](UNIT%209.md)
-- [Unit 10 – Practical DR Implementations](UNIT%2010.md)
-- [Unit 11 – Future Trends & Executive Summary](UNIT%2011.md)
-- [Unit 12 – The Great Debate & Module Synthesis](UNIT%2012.md)
-- [Unit 6 vs Unit 11 – Project Evaluation](COMPARISON.md)
-- [References](REFERENCES.md)
+Security-and-Risk-Management-ePortfolio/
+│
+├── README.md
+│
+├── Reflection/
+│   └── Final_Reflection.md
+│
+├── Team_Project/
+│   ├── Risk_Identification_Report.pdf
+│   └── My_Contribution.md
+│
+├── Individual_Project/
+│   ├── Risk_Assessment_BC_DR_Report.pdf
+│   └── Summary.md
+│
+├── Artefacts_by_Unit/
+│   ├── Unit_1.md
+│   ├── Unit_2.md
+│   ├── Unit_3.md
+│   ├── Unit_4.md
+│   ├── Unit_5.md
+│   ├── Unit_6.md
+│   ├── Unit_7.md
+│   ├── Unit_8.md
+│   ├── Unit_9.md
+│   ├── Unit_10.md
+│   ├── Unit_11.md
+│   └── Unit_12.md
+│
+└── References.md
