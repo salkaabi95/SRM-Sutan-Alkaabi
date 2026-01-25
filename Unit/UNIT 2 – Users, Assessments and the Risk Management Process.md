@@ -10,7 +10,7 @@ Unit 2 develops a deeper understanding of the Risk Management Process (RMP) by e
 **Initial Discussion Post**  
 This screenshot shows my initial discussion contribution analysing the differences between qualitative and quantitative risk assessments and explaining the importance of user involvement in the RMP.
 
-![Unit 2 Discussion Screenshot](images/unit2-peer2.png)
+![Unit 2 Discussion Screenshot](https://github.com/salkaabi95/SRM-Sutan-Alkaabi/blob/main/images/unit2-peer.png)
 
 **Peer Responses**  
 The following screenshot demonstrates my engagement with peers, where I critically responded to their views and supported my arguments using academic sources.
