@@ -39,6 +39,14 @@ This unit reinforced that quantitative models are decision-support tools rather 
 I engaged with quantitative modelling exercises and collaborative discussions to critically evaluate how QRM techniques are implemented in practice. This unit strengthened my ability to assess model suitability, interpret probabilistic outputs, and communicate risk implications clearly. The learning gained directly informed my approach to later units involving business continuity planning and disaster recovery design.
 
 ---
+## Learning Application
+
+Unit 8 focused on the **implementation of quantitative risk models**, emphasising the steps involved in building, validating, and interpreting numerical risk models. This included applying techniques such as Monte Carlo simulation, scenario analysis, and probability distributions to assess risks where data and assumptions permit quantitative interpretation.
+
+The learning from Unit 8 was directly applied in my **individual project**, where quantitative risk modelling was implemented to analyse complex supply chain and operational risks. Specifically, Monte Carlo simulation was used to assess the variance and distribution of risk outcomes based on modelled event paths, and scenario analysis was conducted to understand the potential range of impacts on product availability and organisational continuity. The implementation of these models provided a more nuanced understanding of uncertainty and supported evidence-based decision-making in the development of business continuity and disaster recovery strategies.
+
+
+---
 
 ## References
 Aijaz, M. and Nazir, M. (2024) Modelling and analysis of social engineering threats using the attack tree and the Markov model. *International Journal of Information Technology*, 16(2), pp. 1231–1238.  
