@@ -28,7 +28,7 @@ I authored the initial discussion post responding to the Unit 1 case study, focu
 Unit 1 clarified that risk is not simply the probability of an adverse event, but the *effect of uncertainty on objectives*, as defined by ISO 31000. This distinction reshaped my understanding of risk management as a structured, context-dependent process rather than an ad-hoc judgment. Engaging in discussion highlighted how inconsistent definitions of risk can undermine effective mitigation strategies. This foundational insight influenced my later work, particularly in justifying assessment methodologies and aligning technical risk analysis with organisational objectives.
 
 ---
-## Unit 1 – Learning Application
+## Learning Application
 
 Unit 1 provides the foundational concepts of security and risk management, including definitions of risk, the purposes of risk management, and the systematic identification and treatment of risks. These concepts helped shape my understanding of how risk is defined as the potential for loss or harm when a threat exploits a vulnerability and why structured risk processes are critical within organisational contexts.
 
