@@ -41,6 +41,16 @@ This unit broadened my understanding of SRM beyond technical controls, highlight
 
 ---
 
+## Learning Application
+
+Unit 11 explored the emerging and future trends in security and risk management, including the increasing relevance of automation, artificial intelligence (AI) in risk analytics, integrated risk management platforms, supply chain risk visibility, cloud-native security solutions, and resilience-by-design approaches. These trends highlight that security and risk management is moving toward more proactive, predictive, and data-driven methods, where adaptive risk modelling and real-time monitoring enhance decision-making.
+
+The learning from Unit 11 influenced my perspective on how modern organisations should approach risk management beyond traditional assessment methods. In both my team and individual projects, I considered the implications of future trends when proposing risk treatment and business continuity strategies, such as the importance of automated data replication for disaster recovery and the potential role of predictive analytics in ongoing risk monitoring. This helped ensure that the solutions I proposed were not only relevant for current risk scenarios but also adaptable to emerging risks in cloud environments and dynamic global supply chains.
+
+
+
+---
+
 ## References
 Aven, T. and Thekdi, S. (2025) *Risk Science*. Routledge.  
 
