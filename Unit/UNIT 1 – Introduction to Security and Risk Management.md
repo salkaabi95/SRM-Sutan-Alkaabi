@@ -15,7 +15,7 @@ This artefact demonstrates my participation in the collaborative discussion addr
 
 
 **Peer Response 1:**  
-![Peer Response Screenshot](images/unit1-peer-response.png)  
+![Peer Response Screenshot](https://github.com/salkaabi95/SRM-Sutan-Alkaabi/blob/main/images/unit1-peer-response.png)  
 
 ---
 
