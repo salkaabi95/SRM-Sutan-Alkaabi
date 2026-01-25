@@ -55,6 +55,14 @@ This unit strengthened my understanding of how security and risk standards opera
 
 ---
 
+## Learning Application
+
+Unit 5 introduced key **security and risk standards** used in industry and enterprise settings, including frameworks such as ISO/IEC 27005 for risk management and the NIST Risk Management Framework (RMF). These standards provide structured approaches for identifying, analysing, prioritising, and treating risks in a manner that aligns with organisational goals, regulatory expectations, and recognised best practices.
+
+The learning from Unit 5 directly informed my approach to **methodology selection and justification** in the team project. Specifically, it guided the decision to adopt a hybrid qualitative–semi-quantitative risk assessment methodology that aligned with the **ISO/IEC 27005** risk management principles while leveraging the structured risk assessment guidance from **NIST SP 800-30**. By grounding our approach in established standards, the risk assessment and threat modelling outputs were more credible, consistent, and aligned with professional expectations.
+
+---
+
 ## References
 ISO (2018) ISO 31000: Risk Management – Guidelines.  
 https://www.iso.org/iso-31000-risk-management.html  
