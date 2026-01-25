@@ -10,7 +10,7 @@ Unit 3 introduces the principles of threat modelling and management, focusing on
 **Collaborative Discussion Summary**  
 This artefact summarises my contribution to the ongoing collaborative discussion, where I linked risk concepts from Units 1 and 2 to threat modelling approaches, highlighting how digitalisation can expand the attack surface.
 
-![Unit 3 Discussion Screenshot]([images/unit3-discussion.png](https://github.com/salkaabi95/SRM-Sutan-Alkaabi/blob/main/images/unit3-discussion.png))
+![Unit 3 Discussion Screenshot](https://github.com/salkaabi95/SRM-Sutan-Alkaabi/blob/main/images/unit3-discussion.png)
 
 
 ---
