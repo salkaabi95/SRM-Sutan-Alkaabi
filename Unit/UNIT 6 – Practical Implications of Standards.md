@@ -60,6 +60,15 @@ This unit enhanced my understanding of how abstract regulatory requirements are 
 
 ---
 
+## Learning Application
+
+Unit 6 explored the **practical implications of applying security and risk standards** within organisational contexts, including how standards such as ISO/IEC 27005, ISO 31000, and the NIST Risk Management Framework (RMF) influence the design and implementation of risk assessment and treatment processes. This unit emphasised not just the theoretical aspects of standards, but their **operational and organisational impacts**, including alignment with compliance obligations, integration with existing processes, and the need for stakeholder engagement.
+
+The learning from Unit 6 directly informed my approach to **adapting industry standards to practical project needs** in the team Risk Identification Report. In particular, it shaped how we interpreted and applied the ISO/IEC 27005 risk management principles in a way that was feasible for a small business environment, and how we aligned our process outputs with expectations for documentation and decision-making. This unit helped consolidate my understanding of why standards are not just reference materials but **practical guides** that influence risk assessment structuring, stakeholder communication, and the justification of control decisions.
+
+---
+
+
 ## References
 European Commission (2016) General Data Protection Regulation (EU) 2016/679.  
 https://eur-lex.europa.eu/eli/reg/2016/679/oj  
