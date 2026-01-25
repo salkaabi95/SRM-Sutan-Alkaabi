@@ -32,6 +32,14 @@ The Great Debate served as a capstone activity, integrating technical, quantitat
 
 ---
 
+## Learning Application
+
+Unit 12 presented the “Great Debate” on which trends will have the most influence on security and risk management over the next five years, including discussions on automation, integrated risk platforms, artificial intelligence (AI), digital supply chain visibility, and resilience-by-design. This unit encouraged critical thinking about the future direction of the profession and the implications for risk practitioners.
+
+The learning from Unit 12 influenced my understanding of how evolving technologies and organisational practices will shape future risk management strategies. In my individual project, for example, I considered how automation and analytics could support ongoing monitoring of complex supply chain risks, and how resilience-by-design principles could reduce dependency on manual recovery processes. This forward-looking perspective helped me design continuity and disaster recovery strategies that are not only effective for current risks but are also adaptable to emerging threats in digital ecosystems.
+
+---
+
 ## References
 Aven, T. and Thekdi, S. (2025) *Risk Science*. Routledge.  
 
