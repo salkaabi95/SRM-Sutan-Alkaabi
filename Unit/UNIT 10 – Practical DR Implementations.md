@@ -42,6 +42,15 @@ I contributed to discussions evaluating DR solution trade-offs and vendor lock-i
 
 ---
 
+## Learning Application
+
+Unit 10 focused on the **practical implementation of disaster recovery (DR) strategies**, including the real-world considerations of recovery mechanisms, failover procedures, continuity requirements, and testing plans. This unit emphasised how disaster recovery goes beyond planning to include steps such as backup validation, recovery rehearsals, tiered infrastructure design, and continuous improvement of DR processes.
+
+The learning from Unit 10 directly influenced my **individual project**, particularly in designing the disaster recovery components of the business continuity strategy. Practical insights such as the need for periodic testing, automated failover mechanisms, geographically distributed infrastructure, and structured procedures for data restoration informed how I proposed recovery solutions that were both realistic and aligned with organisational resilience goals. This ensured that the disaster recovery measures were not just theoretical, but potentially implementable within the context of the identified risks and organisational capabilities.
+
+
+---
+
 ## References
 Alhazmi, O. and Malaiya, Y. (2013) Evaluating disaster recovery plans using the cloud. *Proceedings of the Annual Reliability and Maintainability Symposium*, pp. 1–6.  
 https://ieeexplore.ieee.org/document/6482245  
