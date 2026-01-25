@@ -32,7 +32,7 @@ Unit 2 reinforced that risk assessment is not purely a technical exercise but a 
 
 
 ----
-## Unit 2 – Learning Application
+## Learning Application
 
 Unit 2 emphasised the role of **users, assessments, and systematic processes** in effective risk management, including how risk assessments guide decision-making by analysing likelihood and impact, and how users at different levels interact with risk controls (e.g., internal auditors ensuring risk management effectiveness across organisational activities). A risk management process typically involves establishing context, identifying risks, assessing likelihood and impact, and selecting appropriate risk responses, which ensures risks are managed in a structured and repeatable way. :contentReference[oaicite:0]{index=0}
 
