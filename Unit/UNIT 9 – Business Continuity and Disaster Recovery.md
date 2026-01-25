@@ -49,6 +49,14 @@ This unit deepened my understanding of organisational resilience and highlighted
 
 ---
 
+## Learning Application
+
+Unit 9 focused on the principles of **business continuity planning (BCP)** and **disaster recovery (DR)**, emphasising the importance of maintaining essential functions during and after disruptive events. Topics included the development of continuity strategies, identification of critical processes, determination of Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs), and the design of organisational capabilities for resilience.
+
+The learning from Unit 9 directly influenced my **individual project**, where I developed a business continuity and disaster recovery strategy for a digitalised environment and global supply chain setting. Specifically, the concepts of RTO and RPO guided decisions on acceptable downtime and data loss, while the unit’s emphasis on systematic continuity planning informed the structure of the strategy, including redundancy, failover mechanisms, and backup procedures. This ensured that the proposed continuity measures were consistent with recognised practice and tailored to the organisation’s risk profile.
+
+---
+
 ## References
 Andrade, E., Nogueira, B., Matos, R., Callou, G. and Maciel, P. (2017) Availability modeling and analysis of a disaster-recovery-as-a-service solution. *Computing*, 99(10), pp. 929–954.  
 https://doi.org/10.1007/s00607-016-0530-1  
