@@ -42,6 +42,14 @@ I engaged with quantitative modelling exercises and collaborative discussions to
 
 ---
 
+## Learning Application
+
+Unit 7 introduced the foundational concepts of **quantitative risk modelling**, including the use of structured numerical approaches such as probability distributions, event trees, and basic statistical analysis to represent uncertainty in risk outcomes. This unit emphasised that quantitative techniques can offer richer insight into risk likelihood and impact when sufficient data or reasonable assumptions are available, and that these models can support more informed decision-making than qualitative assessments alone.
+
+The learning from Unit 7 directly influenced my approach to the **individual project**, where quantitative risk modelling techniques were applied to assess supply chain and operational risks. Specifically, concepts such as probability distributions and quantitative interpretation of risk outcomes helped frame the selection of Fault Tree Analysis (FTA) and guided assumptions used in Monte Carlo simulation during the risk evaluation process. These methods added depth to the individual assessment by allowing estimation of risk variability and projected impacts under uncertainty.
+
+---
+
 ## References
 Asadabadi, M., Chang, E. and Saberi, M. (2019) Are MCDM methods useful? Cogent Engineering, 6(1).  
 https://doi.org/10.1080/23311916.2019.162315  
