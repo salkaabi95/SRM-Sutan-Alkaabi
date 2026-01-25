@@ -25,6 +25,15 @@ Unit 3 significantly deepened my understanding of how threats differ from vulner
 
 ---
 
+
+## Learning Application
+
+Unit 3 introduced the fundamentals of **threat modelling**, including identifying assets, determining threats, analysing vulnerabilities, and assessing potential impacts. This unit emphasised that effective threat modelling is not purely technical—human, organisational, and process aspects must be considered to identify how threats can manifest in real systems.
+
+The learning from Unit 3 directly informed my approach to the **threat and risk modelling** conducted in the team project. Specifically, it shaped how I identified key assets and decomposed the system into components that could be analysed for vulnerabilities and threat vectors. This improved the clarity and relevance of the risk register used in the current business assessment and ensured that both cyber and operational threats were assessed systematically.
+
+---
+
 ### References  
 - Shostack, A. et al. (2020). *Threat Modeling Manifesto*.  
   https://www.threatmodelingmanifesto.org  
